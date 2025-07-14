@@ -9,6 +9,20 @@
 <div align="right">
   <img src="https://github.com/user-attachments/assets/080819e6-f78c-4313-8fab-a8d9bc5f211e" alt="Coding Animation" width="400px" height="400px" />
 </div>
+ 🌐 Portfolio
+
+📂 Explore all my projects and case studies on my portfolio:  
+[https://codebasics.io/portfolio/Prashant-shukla](https://codebasics.io/portfolio/Prashant-shukla)
+
+
+
+📧 **How to reach me:** Prashant.ps0042@gmail.com
+<p align="left">
+  <strong>Connect with me:</strong><br><br>
+  <a href="https://www.linkedin.com/in/prashant-shukla-b9066a356" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+  </a>
+</p>
 
 ---
 
